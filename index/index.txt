@@ -1,0 +1,5 @@
+Khi b?n tham gia m?t d? án nào d?y thì vi?c ph?i làm vi?c v?i nhi?u ngu?i là di?u thu?ng th?y. K? c? làm vi?c m?t mình thì vi?c qu?n lý source code là vô cùng quan tr?ng.
+
+Theo nhu mình bi?t thì có 2 mô hình qu?n lý source code: Qu?n lý t?p trung (SVN), Qu?n lý phân tán (git). M?i hình th?c d?u có uu và nhu?c di?m riêng.
+
+Bài vi?t này, mình s? hu?ng d?n s? d?ng Github d? qu?n lý source code cho các b?n, m?t d?ch v? git r?t n?i ti?ng c?a Microsoft.

@@ -1,0 +1,11 @@
+Vài thông tin v? GIT:
+
+Là công c? giúp qu?n lý source code t? ch?c theo d?ng d? li?u phân tán.
+Giúp d?ng b? source code c?a team lên 1 server.
+H? tr? các thao tác ki?m tra source code trong quá trình làm vi?c (diff, check modifications, show history, merge source, …)
+GitHub có 2 phiên b?n: mi?n phí và tr? phí. V?i phiên b?n có phí thu?ng du?c các doanh nghi?p s? d?ng d? tang kh? nang qu?n lý team cung nhu phân quy?n b?o m?t d? án.
+Còn l?i thì ph?n l?n chúng ta d?u s? d?ng Github v?i tài kho?n mi?n phí d? luu tr? source code.
+
+Github cung c?p các tính nang social networking nhu feeds, followers, và network graph d? các developer h?c h?i kinh nghi?m c?a nhau thông qua l?ch s? commit.
+
+N?u m?t comment d? mô t? và gi?i thích m?t do?n code. Thì v?i Github, commit message chính là ph?n mô t? hành d?ng mà b?n th?c hi?n trên source code.
